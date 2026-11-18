@@ -1,0 +1,66 @@
+media:
+  input: media
+  output: /media
+  rename: safe
+content:
+  - name: artikel
+    label: Cerita, Tulisan & Buku
+    type: collection
+    path: content/posts
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      primary: title
+      sort: date
+      order: desc
+    fields:
+      - name: title
+        label: Judul tulisan
+        type: string
+        required: true
+      - name: jenis
+        label: Jenis tulisan
+        type: select
+        required: true
+        options:
+          values:
+            - name: Cerita
+              label: Cerita Saya
+            - name: Tulisan
+              label: Tulisan
+            - name: Buku
+              label: Karya & Buku
+      - name: kategori
+        label: Kategori
+        type: string
+        default: Pengalaman pribadi
+      - name: summary
+        label: Ringkasan untuk kartu
+        type: text
+        required: true
+      - name: date
+        label: Tanggal terbit
+        type: date
+        options:
+          format: yyyy-MM-dd
+      - name: published
+        label: Tampilkan di website
+        type: boolean
+        default: false
+      - name: theme
+        label: Tema kartu
+        type: select
+        default: sand
+        options:
+          values: [sand, leaf, blue, violet]
+      - name: pdf
+        label: PDF karya (opsional)
+        type: file
+        options:
+          extensions: [pdf]
+      - name: body
+        label: Isi artikel
+        type: rich-text
+        options:
+          format: markdown
+          switcher: true

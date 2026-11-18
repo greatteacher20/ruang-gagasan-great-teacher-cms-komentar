@@ -1,0 +1,20 @@
+ARTIKEL PERTAMA SUDAH DIMASUKKAN
+
+Judul: Mengapa Saya Membuat Ruang Gagasan?
+Kategori: Cerita Saya / Catatan pembuka
+
+Cara memakai:
+1. Cadangkan folder website Anda yang lama.
+2. Buka folder hasil ekstrak paket baru ini melalui VS Code.
+3. Jalankan index.html dengan Live Server.
+4. Pada Beranda, di bagian Tulisan terbaru, klik judul artikel pertama.
+
+Jika Anda ingin menggunakan folder website lama:
+1. Buka folder assets di folder ZIP baru ini.
+2. Salin data.js ke folder assets website Anda.
+3. Pilih Replace ketika diminta, setelah memastikan cadangan sudah ada.
+4. Refresh halaman (Ctrl + Shift + R).
+
+PERHATIAN: Jika sebelumnya Anda sudah mengedit data.js (nama, Instagram, konten), mengganti seluruh file data.js akan menimpa perubahan itu. Dalam kasus tersebut, salin hanya blok artikel pertama dari KONTEN di data.js baru ke data.js lama.
+
+Tanggal artikel saat ini 18 November 2026. Anda boleh mengubahnya sesuai tanggal publikasi.

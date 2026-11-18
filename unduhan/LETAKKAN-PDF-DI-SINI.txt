@@ -1,0 +1,3 @@
+Simpan file PDF buku karya sendiri di folder ini.
+Contoh: unduhan/buku-pertama.pdf
+Setelah itu, masukkan tautan file tersebut ke assets/data.js.
