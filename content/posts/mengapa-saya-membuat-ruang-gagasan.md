@@ -2,13 +2,12 @@
 title: Mengapa Saya Membuat Ruang Gagasan?
 jenis: Cerita
 kategori: Catatan pembuka
-summary: Cerita awal membangun website pribadi untuk belajar menulis, berbagi pengalaman,
-  karya, dan hal-hal yang menarik.
-date: '2026-11-18'
+summary: Cerita awal membangun website pribadi untuk belajar menulis, berbagi
+  pengalaman, karya, dan hal-hal yang menarik.
+date: 2026-11-18
 published: true
 theme: sand
 ---
-
 Setiap orang punya cerita, pengalaman, dan pemikiran yang mungkin menarik untuk dibagikan. Begitu juga dengan saya. Ada banyak hal yang saya temui, pelajari, dan pikirkan dalam kehidupan sehari-hari. Sebagian mungkin sederhana, tetapi sering kali membuat saya ingin mencari tahu lebih jauh atau sekadar menuangkannya dalam tulisan.
 
 Dari keinginan itulah **Ruang Gagasan** lahir.
@@ -61,7 +60,7 @@ Terima kasih sudah berkunjung ke **Ruang Gagasan**.
 
 Semoga ada sesuatu yang menarik atau bermanfaat yang bisa Anda temukan di sini.
 
-**Salam,  
-Great Teacher**
+**Salam,**  
+**Great Teacher**
 
 *Ruang Gagasan | Tempat belajar, menulis, dan berbagi.*
