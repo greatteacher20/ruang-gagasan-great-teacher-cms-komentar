@@ -8,7 +8,7 @@ date: 2026-11-18
 published: true
 theme: sand
 ---
-Setiap orang punya cerita, pengalaman, dan pemikiran yang mungkin menarik untuk dibagikan. Begitu juga dengan saya. Ada banyak hal yang saya temui, pelajari, dan pikirkan dalam kehidupan sehari-hari. Sebagian mungkin sederhana, tetapi sering kali membuat saya ingin mencari tahu lebih jauh atau sekadar menuangkannya dalam tulisan.
+[BAGIAN 1] Setiap orang punya cerita, pengalaman, dan pemikiran yang mungkin menarik untuk dibagikan. Begitu juga dengan saya. Ada banyak hal yang saya temui, pelajari, dan pikirkan dalam kehidupan sehari-hari. Sebagian mungkin sederhana, tetapi sering kali membuat saya ingin mencari tahu lebih jauh atau sekadar menuangkannya dalam tulisan.
 
 Dari keinginan itulah **Ruang Gagasan** lahir.
 
