@@ -1,4 +1,4 @@
-/* Konfigurasi KOMENTAR. Isi shortname Disqus setelah situs terbit. */
+/* Konfigurasi komentar Ruang Gagasan */
 window.COMMENTS_CONFIG = {
-  shortname: "" // Contoh: "ruang-gagasan-anda" (bukan URL lengkap)
+  shortname: "https-ruang-gagasan-great-teacher-netlify-app"
 };
